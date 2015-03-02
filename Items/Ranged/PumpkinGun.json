@@ -1,0 +1,29 @@
+{
+	"displayName": "Pumpkin Gun",
+	"size": [
+		42,
+		40
+	],
+	"maxStack": 1,
+	"value": [
+		0,
+		0,
+		0,
+		75
+	],
+	"rare": 0,
+	"tooltip": "Shooting Pumpkins like a boss",
+	"useStyle": 5,
+	
+	"recipes": [
+		{
+			"items": {
+				"Pumpkin": 20
+			},
+			"tiles": [
+				"Work Bench"
+			],
+			"creates": 1
+		}
+	]
+}
